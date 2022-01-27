@@ -1,0 +1,31 @@
+.info{
+    border: 1px black solid;
+    width: 300px;
+    height: 275px;
+    margin: 15px;
+}
+.new1{
+    border: 1px black solid;
+    width: 280px;
+    height: 120px;
+    margin: 6px;
+   /* background-image: url(https://external-preview.redd.it/fNlBO2k03mTMXmUaLbIvSiXoNRWIUAZaRsYTqeEmurw.jpg?auto=webp&s=deb364a9d2106cbf57e7fb8e8d9f1e5bbbfdbd73);*/
+    background-size: 100%;
+    background-repeat: none;
+}
+.new2{
+    border: 1px black solid;
+    width: 280px;
+    height: 120px;
+ /*   background-image: url(https://external-preview.redd.it/PosLp473AXm704ODQokTSvwbdTrvk7B90EBPEZ5-jYs.jpg?auto=webp&s=76ac861b0a98e1fac817451205c91803491524fb);*/
+    background-size: 100%;
+    background-repeat: none;
+    margin: 6px;
+}
+button{
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    height: 25px;
+    margin-left: 38%;
+}

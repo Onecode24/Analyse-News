@@ -1,0 +1,25 @@
+{
+
+  "manifest_version": 2,
+  "name": "Analyze-news",
+  "version": "1.0",
+
+  "description": "Par rapport à votre recherche dans le navigateur l'extention vous propose des informations verifier suivants le domaines",
+  "icons": {
+    "48": "icons/Analyze-bro.png"
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/Analyze-bro.svg",
+    "default_title": "Analyze-news",
+    "default_popup": "popup/index.html"
+  },
+
+  "web_accessible_resources": [
+    
+  ]
+}
